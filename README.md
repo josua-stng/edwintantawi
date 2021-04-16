@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**edwintantawi/edwintantawi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My name is Edwin tantawi, I am a student from Indonesia and I am a frontend web developer, nice to meet you.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on my Personal Projects
+- 🌱 I’m currently learning Frontend web development ( Webpack, ReactJS, etc )
+- 📫 How to reach me: <a href="https://edwintantawi.github.io">my Website</a> | <a href="https://www.instagram.com/wintantawi/">Instagram</a> | <a href="https://wa.me/+6282388386923">Whatsapp</a> | <a href="https://www.linkedin.com/in/edwin-tantawi-909138193/">Linkedin</a> | <a href="https://facebook.com/edwintantawi.5">Facebook</a> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-----
+
+![Edwin Tantawi github stats](https://github-readme-stats.vercel.app/api?username=edwintantawi&show_icons=true)
+
+
+<a href="https://github.com/edwintantawi">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwintantawi&layout=compact" width="495px"/>
+</a>
+
+-----
+
